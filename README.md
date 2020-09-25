@@ -8,4 +8,4 @@ Natural language processors (NLP) work by converting words (text) into numbers. 
 Al/ML-based fake news detector is crucial for companies and media to automatically predict whether circulating news is fake or not.
 
 
-Technology: Data Science | Data Visualization | Tensorflow 2.0 | Fake New Detection | Natural Language Processing (NLP) | Recurrent Neural Networks (RNNs) | Long Short Term Memory (LSTM) | Python | Deep Neural Networks | Artificial Neural Networks | Neural Networks | Deep Learning | Machine Learning | Artificial Intelligence
+Technology: Data Science | Data Visualization | Tensorflow 2.0 | Fake News Detection | Natural Language Processing (NLP) | Recurrent Neural Networks (RNNs) | Long Short Term Memory (LSTM) | Python | Deep Neural Networks | Artificial Neural Networks | Neural Networks | Deep Learning | Machine Learning | Artificial Intelligence
